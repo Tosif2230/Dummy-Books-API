@@ -1,272 +1,314 @@
+
 [
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800001",
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "category": "Fiction",
-    "description": "A powerful story about racial injustice and moral growth in the American South.",
-    "rating": 4.28,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81OtwFxoP5L.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800001",
+    title: "To Kill a Mockingbird",
+    author: "Harper Lee",
+    category: "Fiction",
+    description:
+      "A classic novel addressing racial injustice and moral courage in the American South.",
+    rating: 4.28,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81OtwFxoP5L.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800002",
-    "title": "1984",
-    "author": "George Orwell",
-    "category": "Sci-Fi",
-    "description": "A dystopian novel exploring surveillance, totalitarianism, and the loss of freedom.",
-    "rating": 4.19,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800002",
+    title: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    category: "Fiction",
+    description:
+      "A tragic exploration of ambition, love, and the American Dream.",
+    rating: 3.93,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800003",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "category": "Fiction",
-    "description": "A tragic tale of ambition, love, and the American Dream in the Jazz Age.",
-    "rating": 3.93,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800003",
+    title: "The Kite Runner",
+    author: "Khaled Hosseini",
+    category: "Fiction",
+    description:
+      "A moving story of friendship, guilt, and redemption set in Afghanistan.",
+    rating: 4.34,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81W6RM4v43L.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800004",
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "category": "Fantasy",
-    "description": "Bilbo Baggins embarks on an epic quest filled with dwarves, dragons, and adventure.",
-    "rating": 4.27,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800004",
+    title: "The Catcher in the Rye",
+    author: "J.D. Salinger",
+    category: "Fiction",
+    description: "A teenager's narrative of alienation and identity.",
+    rating: 3.81,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71N0dNtQ1BL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800005",
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "category": "Fiction",
-    "description": "A philosophical novel about following your dreams and listening to your heart.",
-    "rating": 3.86,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800005",
+    title: "The Alchemist",
+    author: "Paulo Coelho",
+    category: "Fiction",
+    description: "A philosophical journey about following one’s dreams.",
+    rating: 3.86,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+  },
+
+  {
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800006",
+    title: "Sapiens",
+    author: "Yuval Noah Harari",
+    category: "Non-Fiction",
+    description: "A sweeping history of humankind.",
+    rating: 4.37,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800006",
-    "title": "Sapiens",
-    "author": "Yuval Noah Harari",
-    "category": "Non-Fiction",
-    "description": "A sweeping exploration of human history, evolution, and cultural development.",
-    "rating": 4.37,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800007",
+    title: "Educated",
+    author: "Tara Westover",
+    category: "Non-Fiction",
+    description:
+      "A memoir about escaping a survivalist family to pursue education.",
+    rating: 4.47,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800007",
-    "title": "Atomic Habits",
-    "author": "James Clear",
-    "category": "Self-Help",
-    "description": "A practical guide to building good habits through small, consistent changes.",
-    "rating": 4.36,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800008",
+    title: "Atomic Habits",
+    author: "James Clear",
+    category: "Non-Fiction",
+    description: "A guide to building good habits through small changes.",
+    rating: 4.36,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800008",
-    "title": "The Silent Patient",
-    "author": "Alex Michaelides",
-    "category": "Mystery",
-    "description": "A shocking psychological thriller about a woman who stops speaking after a crime.",
-    "rating": 4.12,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81n4pZJZc2L.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800009",
+    title: "Thinking, Fast and Slow",
+    author: "Daniel Kahneman",
+    category: "Non-Fiction",
+    description: "Insights into human decision-making and cognitive bias.",
+    rating: 4.16,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71pR7Xtc5XL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800009",
-    "title": "Becoming",
-    "author": "Michelle Obama",
-    "category": "Biography",
-    "description": "A deeply personal memoir by the former First Lady of the United States.",
-    "rating": 4.55,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800010",
+    title: "The Psychology of Money",
+    author: "Morgan Housel",
+    category: "Non-Fiction",
+    description: "Timeless lessons on wealth and behavior.",
+    rating: 4.4,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg",
+  },
+
+  {
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800011",
+    title: "1984",
+    author: "George Orwell",
+    category: "Sci-Fi",
+    description: "A dystopian novel about surveillance and authoritarianism.",
+    rating: 4.19,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800010",
-    "title": "The Subtle Art of Not Giving a F*ck",
-    "author": "Mark Manson",
-    "category": "Self-Help",
-    "description": "A counterintuitive guide to living a meaningful, values-based life.",
-    "rating": 3.91,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800012",
+    title: "Dune",
+    author: "Frank Herbert",
+    category: "Sci-Fi",
+    description:
+      "An epic saga of politics and power on the desert planet Arrakis.",
+    rating: 4.23,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/91A1njt9IwL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800011",
-    "title": "Rich Dad Poor Dad",
-    "author": "Robert T. Kiyosaki",
-    "category": "Business",
-    "description": "Financial lessons on wealth-building and investment from two father figures.",
-    "rating": 4.13,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800013",
+    title: "The Hunger Games",
+    author: "Suzanne Collins",
+    category: "Sci-Fi",
+    description: "A dystopian survival competition in a totalitarian society.",
+    rating: 4.33,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81-CSeFlZ-L.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800012",
-    "title": "The Power of Now",
-    "author": "Eckhart Tolle",
-    "category": "Spirituality",
-    "description": "A guide to living fully in the present moment and detaching from ego.",
-    "rating": 4.15,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71VbHaA3Y8L.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800014",
+    title: "The Hitchhiker's Guide to the Galaxy",
+    author: "Douglas Adams",
+    category: "Sci-Fi",
+    description: "A comedic intergalactic adventure.",
+    rating: 4.22,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81wj5F8JTRL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800013",
-    "title": "Harry Potter and the Sorcerer's Stone",
-    "author": "J.K. Rowling",
-    "category": "Fantasy",
-    "description": "A young boy discovers he is a wizard and enters a magical world of adventure.",
-    "rating": 4.47,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800015",
+    title: "Fahrenheit 451",
+    author: "Ray Bradbury",
+    category: "Sci-Fi",
+    description: "A future where books are banned and burned.",
+    rating: 3.99,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/71OFqSRFDgL.jpg",
+  },
+
+  {
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800016",
+    title: "The Shining",
+    author: "Stephen King",
+    category: "Horrer",
+    description:
+      "A chilling story of isolation and madness in a haunted hotel.",
+    rating: 4.26,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81Q0tYl5ekL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800014",
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "category": "Fiction",
-    "description": "A rebellious teenager narrates his experiences of alienation and identity.",
-    "rating": 3.81,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71N0dNtQ1BL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800017",
+    title: "Dracula",
+    author: "Bram Stoker",
+    category: "Horrer",
+    description: "The classic vampire novel that defined modern horror.",
+    rating: 4.01,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81t2CVWEsUL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800015",
-    "title": "The Girl on the Train",
-    "author": "Paula Hawkins",
-    "category": "Thriller",
-    "description": "A woman becomes entangled in a missing-person case filled with twists.",
-    "rating": 3.93,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81Eri0uK0LL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800018",
+    title: "It",
+    author: "Stephen King",
+    category: "Horrer",
+    description: "A shape-shifting evil terrorizes a small town.",
+    rating: 4.24,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81b0G7Z2fVL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800016",
-    "title": "The Da Vinci Code",
-    "author": "Dan Brown",
-    "category": "Mystery",
-    "description": "A symbologist uncovers hidden secrets about the Holy Grail and ancient societies.",
-    "rating": 3.9,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800019",
+    title: "The Haunting of Hill House",
+    author: "Shirley Jackson",
+    category: "Horrer",
+    description: "A psychological horror story set in a haunted mansion.",
+    rating: 3.99,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81d4U6z4YXL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800017",
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "category": "Romance",
-    "description": "A classic tale of love, class, and social expectations in 19th-century England.",
-    "rating": 4.28,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800020",
+    title: "Pet Sematary",
+    author: "Stephen King",
+    category: "Horrer",
+    description: "A dark tale about death and forbidden resurrection.",
+    rating: 4.07,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81X4H5GvWYL.jpg",
+  },
+
+  {
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800021",
+    title: "Pride and Prejudice",
+    author: "Jane Austen",
+    category: "Romantic",
+    description: "A timeless romance exploring love and class.",
+    rating: 4.28,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800018",
-    "title": "The Fault in Our Stars",
-    "author": "John Green",
-    "category": "Romance",
-    "description": "A touching love story between two teens battling terminal illness.",
-    "rating": 4.17,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81pR5nMT5aL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800022",
+    title: "The Fault in Our Stars",
+    author: "John Green",
+    category: "Romantic",
+    description: "A heartfelt love story between two teenagers.",
+    rating: 4.17,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81pR5nMT5aL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800019",
-    "title": "The Hitchhiker's Guide to the Galaxy",
-    "author": "Douglas Adams",
-    "category": "Sci-Fi",
-    "description": "A comedic intergalactic adventure following Earth's sudden destruction.",
-    "rating": 4.22,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81wj5F8JTRL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800023",
+    title: "Me Before You",
+    author: "Jojo Moyes",
+    category: "Romantic",
+    description: "A love story that changes two lives forever.",
+    rating: 4.26,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800020",
-    "title": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
-    "category": "Psychology",
-    "description": "Insights into how humans think, make decisions, and form biases.",
-    "rating": 4.16,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71pR7Xtc5XL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800024",
+    title: "Outlander",
+    author: "Diana Gabaldon",
+    category: "Romantic",
+    description: "A time-travel romance set in Scotland.",
+    rating: 4.25,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81uHjrD1P6L.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800021",
-    "title": "A Brief History of Time",
-    "author": "Stephen Hawking",
-    "category": "Science",
-    "description": "An accessible explanation of cosmology, black holes, and the universe.",
-    "rating": 4.17,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800025",
+    title: "The Notebook",
+    author: "Nicholas Sparks",
+    category: "Romantic",
+    description: "A story of enduring love and memory.",
+    rating: 4.14,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81pQPZAFWbL.jpg",
+  },
+
+  {
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800026",
+    title: "Becoming",
+    author: "Michelle Obama",
+    category: "Biography",
+    description: "A memoir reflecting on identity and leadership.",
+    rating: 4.55,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800022",
-    "title": "The Shining",
-    "author": "Stephen King",
-    "category": "Horror",
-    "description": "A chilling story of a haunted hotel and a man's descent into madness.",
-    "rating": 4.26,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81Q0tYl5ekL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800027",
+    title: "The Diary of a Young Girl",
+    author: "Anne Frank",
+    category: "Biography",
+    description: "The diary of a young girl hiding during World War II.",
+    rating: 4.18,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800023",
-    "title": "Educated",
-    "author": "Tara Westover",
-    "category": "Biography",
-    "description": "A memoir of a woman who escapes a strict, abusive household to pursue education.",
-    "rating": 4.47,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800028",
+    title: "Long Walk to Freedom",
+    author: "Nelson Mandela",
+    category: "Biography",
+    description: "The autobiography of Nelson Mandela.",
+    rating: 4.36,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81m2B2zvKUL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800024",
-    "title": "The Hunger Games",
-    "author": "Suzanne Collins",
-    "category": "Sci-Fi",
-    "description": "A dystopian world where teens must fight for survival in a televised arena.",
-    "rating": 4.33,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81-CSeFlZ-L.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800029",
+    title: "Steve Jobs",
+    author: "Walter Isaacson",
+    category: "Biography",
+    description: "The life and legacy of Apple co-founder Steve Jobs.",
+    rating: 4.12,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg",
   },
   {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800025",
-    "title": "The Road",
-    "author": "Cormac McCarthy",
-    "category": "Post-Apocalyptic",
-    "description": "A father and son journey through a bleak world after an unnamed catastrophe.",
-    "rating": 4.08,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81r-NrQIJhL.jpg"
+    id: "1f3a7a4d-74f0-4fe4-908b-1209e800030",
+    title: "Wings of Fire",
+    author: "A. P. J. Abdul Kalam",
+    category: "Biography",
+    description: "An inspiring autobiography of India's Missile Man.",
+    rating: 4.32,
+    imageUrl:
+      "https://images-na.ssl-images-amazon.com/images/I/81t2G+zZrPL.jpg",
   },
-  {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800026",
-    "title": "The Lord of the Rings",
-    "author": "J.R.R. Tolkien",
-    "category": "Fantasy",
-    "description": "An epic quest to destroy a powerful ring that could doom Middle-earth.",
-    "rating": 4.51,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91SZSW8qSsL.jpg"
-  },
-  {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800027",
-    "title": "The Kite Runner",
-    "author": "Khaled Hosseini",
-    "category": "Fiction",
-    "description": "A moving story of friendship, guilt, and redemption set in Afghanistan.",
-    "rating": 4.34,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81W6RM4v43L.jpg"
-  },
-  {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800028",
-    "title": "The Handmaid's Tale",
-    "author": "Margaret Atwood",
-    "category": "Dystopian",
-    "description": "A totalitarian society forces women into reproductive servitude.",
-    "rating": 4.13,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
-  },
-  {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800029",
-    "title": "The Psychology of Money",
-    "author": "Morgan Housel",
-    "category": "Finance",
-    "description": "Timeless lessons on wealth, greed, and happiness.",
-    "rating": 4.4,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg"
-  },
-  {
-    "id": "1f3a7a4d-74f0-4fe4-908b-1209e800030",
-    "title": "Dune",
-    "author": "Frank Herbert",
-    "category": "Sci-Fi",
-    "description": "A sci-fi masterpiece exploring politics, religion, and power on the desert planet Arrakis.",
-    "rating": 4.23,
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91A1njt9IwL.jpg"
-  }
-]
+];
